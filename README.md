@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sohshun Tateishi
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to for internship oppurtunities to learn more about software development
+- 👀 I’m interested in software development and cyber security
+- 🌱 I’m currently learning about malware detection and engineering
+- 💞️ I’m looking to for software development jobs or internships to learn more about enterprise development
 - 📫 You can reach me through  [LinkedIn](https://www.linkedin.com/in/sohshun-tateishi
 )
 
